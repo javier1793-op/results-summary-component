@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-[Results summary component challenge on Frontend Mentor](./assets/images/Screenshot.png)
+![Results summary component challenge on Frontend Mentor](./assets/images/Screenshot.png)
 
 
 ### Links
